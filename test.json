@@ -1,4 +1,10 @@
 {
-    "user1": "d2VpcmRkeSB0ZXN0aW5n",
-    "user2": "dW5rbm93biBoYXMgYmVlbiB0ZXN0ZWQgZm9yIHZpcmFsaXR5"
+    "user1": {
+        "hash": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
+        "dgb": true
+    },
+    "user2": {
+        "hash": "",
+        "dgb": false
+    }
 }
