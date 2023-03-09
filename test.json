@@ -1,10 +1,6 @@
 {
-    "user1": {
-        "hash": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
-        "dgb": true
-    },
-    "user2": {
-        "hash": "",
-        "dgb": false
+    "players": {
+        "user1": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
+        "user2": ""
     }
 }
