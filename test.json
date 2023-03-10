@@ -1,12 +1,6 @@
 {
     "players": {
-        "user1": {
-            "hash": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
-            "null": true
-        },
-        "user2": {
-            "hash": "QzI2Mjc1MkUtMkZEQS00M0FCLUIwRTgtQzAxRDc2RTJCQkM0",
-            "null": false
-        }
+        "user1": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
+        "user2": "QzI2Mjc1MkUtMkZEQS00M0FCLUIwRTgtQzAxRDc2RTJCQkM0"
     }
 }
