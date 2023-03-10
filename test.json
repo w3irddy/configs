@@ -2,7 +2,7 @@
     "players": {
         "user1": {
             "hash": "QjJBRURGQzQtNzEwNC00NzU3LTlBNjMtNENCODY1MEJDN0VD",
-            "null": false
+            "null": true
         },
         "user2": {
             "hash": "QzI2Mjc1MkUtMkZEQS00M0FCLUIwRTgtQzAxRDc2RTJCQkM0",
